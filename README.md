@@ -9,3 +9,4 @@ docker-compose up -d
 # 浏览器输入网址测试
 http://localhost/index.php/index/Index/moderndate
 ~~~
+[为什么这样呢？](https://github.com/lirong098/record/blob/master/docker-php.md)
