@@ -1,4 +1,5 @@
 # Docker部署php开发环境
+## 结合真实的thinkPHP 5 为例
 ~~~bash
 # 下载代码
 git clone https://github.com/lirong098/phpDocker.git
